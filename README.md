@@ -22,3 +22,7 @@ Front view of the Bachelor Thesis
 On opening the 'chapter' folder, each chapter is organized in a file called .tex (eg c2.tex).
 
 Opening the pic' folder, each chapter folder has its own folder  wherein are attached images/diagraams in any extension format (.png/.jpg).
+
+
+# Remember:
+Kindly note that for the compilation of your work, always run from the 'main_file.tex and click on "Recompile' on a green background located on the right hand side.  
