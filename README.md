@@ -13,3 +13,7 @@ You can always use the following links for any extra formatting:
 a) for table generation: https://www.tablesgenerator.com/
 
 b) for equation geeneration: https://latexeditor.lagrida.com/
+
+![Bachelor Cover](https://user-images.githubusercontent.com/61402731/150671042-04cb0708-319e-4c2c-aea8-e2c44678b814.png)
+
+Front view of the Bachelor Thesis
