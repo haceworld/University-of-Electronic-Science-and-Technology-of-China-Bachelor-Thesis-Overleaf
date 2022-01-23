@@ -23,6 +23,10 @@ On opening the 'chapter' folder, each chapter is organized in a file called .tex
 
 Opening the pic' folder, each chapter folder has its own folder  wherein are attached images/diagraams in any extension format (.png/.jpg).
 
+![environment](https://user-images.githubusercontent.com/61402731/150673083-42579b54-8d25-4c48-a351-3063d8382f2f.png)
+
+An image showing how the contents are organized
+
 
 # Remember:
 Kindly note that for the compilation of your work, always run from the 'main_file.tex and click on "Recompile' on a green background located on the right hand side.  
