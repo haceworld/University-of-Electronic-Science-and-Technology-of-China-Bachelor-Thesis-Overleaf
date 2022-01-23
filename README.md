@@ -17,3 +17,8 @@ b) for equation geeneration: https://latexeditor.lagrida.com/
 ![Bachelor Cover](https://user-images.githubusercontent.com/61402731/150671042-04cb0708-319e-4c2c-aea8-e2c44678b814.png)
 
 Front view of the Bachelor Thesis
+
+# Structural display of the thesis contents
+On opening the 'chapter' folder, each chapter is organized in a file called .tex (eg c2.tex).
+
+Opening the pic' folder, each chapter folder has its own folder  wherein are attached images/diagraams in any extension format (.png/.jpg).
