@@ -31,6 +31,8 @@ An image showing how the contents are organized
 # Remember:
 Kindly note that for the compilation of your work, always run from the 'main_file.tex and click on "Recompile' on a green background located on the right hand side.
 
+
+
 # New Addition, 2022
 ### 2022 UESTC Thesis/Dissertation New Format
 In 2022, UESTC made few changes to the Thesis/Dissertation format. These changes are mainly on the style of the 'Table and the Reference style'. I have provided the code to correctly effect the new style of the Table and I have also included a new source file named "thesis-uestc.bst" to handle the new changes to the reference format.
@@ -66,3 +68,6 @@ In 2022, UESTC made few changes to the Thesis/Dissertation format. These changes
 
 \end{table}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+![UESTC_Table](https://user-images.githubusercontent.com/61402731/159210588-7bad7651-b747-49ba-ab6b-15b88f197965.png)
+
