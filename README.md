@@ -31,6 +31,10 @@ An image showing how the contents are organized
 # Remember:
 Kindly note that for the compilation of your work, always run from the 'main_file.tex and click on "Recompile' on a green background located on the right hand side.
 
+# The changes made to handle the new reference format
+The picture illustrates the change that was made. The previous source file was renamed to 'thesis-uestc-old.bst' and the new source file is named "thesis-uestc.bst"
+
+
 
 
 # New Addition, 2022
