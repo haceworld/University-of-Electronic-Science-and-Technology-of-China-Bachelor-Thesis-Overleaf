@@ -29,4 +29,40 @@ An image showing how the contents are organized
 
 
 # Remember:
-Kindly note that for the compilation of your work, always run from the 'main_file.tex and click on "Recompile' on a green background located on the right hand side.  
+Kindly note that for the compilation of your work, always run from the 'main_file.tex and click on "Recompile' on a green background located on the right hand side.
+
+# New Addition, 2022
+### 2022 UESTC Thesis/Dissertation New Format
+In 2022, UESTC made few changes to the Thesis/Dissertation format. These changes are mainly on the style of the 'Table and the Reference style'. I have provided the code to correctly effect the new style of the Table and I have also included a new source file named "thesis-uestc.bst" to handle the new changes to the reference format.
+
+# Example 1 of the new Table style
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 2 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table}[h!]
+
+ \scriptsize
+ 
+ \centering
+ 
+ \caption{The Distribution of Relabeled Data}
+ 
+ \begin{tabular}{cccl}
+ 
+\toprule
+
+\textbf{Label}   & \textbf{Class}   & \textbf{Number}  & \textbf{Percentage} \\
+
+\midrule
+
+0                & No RDR       & 548                & 45.6\%  \\
+
+1                & RDR          & 652                & 54.4\%  \\
+
+\bottomrule
+
+\end{tabular}
+
+\label{tab3-1-2}
+
+\end{table}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
